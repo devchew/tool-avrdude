@@ -1,0 +1,22 @@
+{
+  "name": "tool-avrdude",
+  "version": "8.0.0",
+  "description": "AVRDUDE is a utility to download/upload/manipulate the ROM and EEPROM contents of AVR microcontrollers",
+  "keywords": [
+    "tools",
+    "uploader",
+    "microchip",
+    "avr"
+  ],
+  "homepage": "git@github.com:avrdudes/avrdude",
+  "license": "GPL-2.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:avrdudes/avrdude.git"
+  },
+  "system": [
+    "windows_arm64",
+    "windows_x86",
+    "windows_amd64"
+  ]
+}
